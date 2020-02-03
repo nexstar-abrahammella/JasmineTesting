@@ -1,0 +1,47 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1580766396780' stop='1580766397841'>
+    <name>Testing for the i18n Function</name>
+    <title>Testing for the i18n Function</title>
+    <test-cases>
+        <test-case start='1580766396780' status='passed' stop='1580766397049'>
+            <name>Checking if the locale variable: ITALY  its the locale corrects one.</name>
+            <title>Checking if the locale variable: ITALY  its the locale corrects one.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='88308368-f977-45fc-aa8f-a1508fbf550a-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+        <test-case start='1580766397049' status='passed' stop='1580766397310'>
+            <name>Checking if the locale variable: GERMANY  its the locale corrects one.</name>
+            <title>Checking if the locale variable: GERMANY  its the locale corrects one.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9a8e0690-1413-4c5d-8ff5-e25013067c78-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+        <test-case start='1580766397310' status='passed' stop='1580766397582'>
+            <name>Checking if not exist a locale, need to show a general message.</name>
+            <title>Checking if not exist a locale, need to show a general message.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='f5e85942-4176-4799-8092-97ec160ba1c9-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+        <test-case start='1580766397582' status='passed' stop='1580766397841'>
+            <name>Checking if the local is null  need to show a general message.</name>
+            <title>Checking if the local is null  need to show a general message.</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='468b7696-9005-41e0-8191-d627ec7f3cb1-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

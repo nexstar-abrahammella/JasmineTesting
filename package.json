@@ -1,0 +1,20 @@
+{
+  "name": "jasminallure",
+  "version": "1.0.0",
+  "description": "**Edit a file, create a new file, and clone from Bitbucket in under 2 minutes**",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine": "3.5.0",
+    "jasmine-allure-reporter": "^1.0.2",
+    "protractor": "5.4.3"
+  },
+  "scripts": {
+    "test": "protractor conf.js",
+    "reportTest": "allure serve ./allure-results",
+    "@wdio/cli": "^5.18.5",
+    "webdriverio": "^5.16.15"
+  },
+  "keywords": [],
+  "author": "Abraham Mella",
+  "license": "ISC"
+}

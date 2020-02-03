@@ -1,0 +1,17 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1580766398113' stop='1580766398436'>
+    <name>Testing For All The Products Total </name>
+    <title>Testing For All The Products Total </title>
+    <test-cases>
+        <test-case start='1580766398113' status='passed' stop='1580766398436'>
+            <name>Getting all the total product prices </name>
+            <title>Getting all the total product prices </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='5ecc4eb6-3be1-48de-bcc9-b01fc3289865-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1580766396144' stop='1580766396778'>
+    <name>Testing If the shoppin cart is empty. </name>
+    <title>Testing If the shoppin cart is empty. </title>
+    <test-cases>
+        <test-case start='1580766396144' status='passed' stop='1580766396477'>
+            <name>Cheking if the Shopping Cart it's no empty </name>
+            <title>Cheking if the Shopping Cart it's no empty </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='33b3d2da-8aef-46a5-b42f-c0e24c479f0d-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+        <test-case start='1580766396477' status='passed' stop='1580766396777'>
+            <name>Cheking if the Shopping Cart it's Empty </name>
+            <title>Cheking if the Shopping Cart it's Empty </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9ce6547b-4969-477c-9ef1-02706e308179-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

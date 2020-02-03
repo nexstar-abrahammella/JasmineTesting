@@ -1,0 +1,37 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1580766290585' stop='1580766291401'>
+    <name>Testing for add to cart function on 'SHOPPING CART FORM' </name>
+    <title>Testing for add to cart function on 'SHOPPING CART FORM' </title>
+    <test-cases>
+        <test-case start='1580766290585' status='passed' stop='1580766290871'>
+            <name>Adding product to Array</name>
+            <title>Adding product to Array</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='9d480383-8101-487f-9137-421b3296529e-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+        <test-case start='1580766290871' status='passed' stop='1580766291140'>
+            <name>Testing If A Product Not Exist </name>
+            <title>Testing If A Product Not Exist </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='fcaa35bb-620e-469a-8104-befab418a529-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+        <test-case start='1580766291140' status='passed' stop='1580766291400'>
+            <name>Testing that the array have two object </name>
+            <title>Testing that the array have two object </title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments>
+                <attachment title='Screenshot' source='1016415f-fa16-4d2a-99e2-707fa1446d9b-attachment.png' type='image/png' size='5205'/>
+            </attachments>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>
